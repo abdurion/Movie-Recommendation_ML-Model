@@ -11,5 +11,8 @@ StackOverFlow does a survey each year asking many questions to its users, about 
 
 
 ### Data & Tools
-The dataset I plan to use is the one provided by StackOverFlow for 2021 [here](https://insights.stackoverflow.com/survey), the survey contained 48 columns and 80k entries. I expect to be working mostly on job titles, education, language and frameworks used in the past year. I will be working with Pandas for EDA, I expect to also use Seaborn or matplotlab for visualization to make the insights easier to perceive. The minimum viable product for this project would be a graph to represent the frameworks used in the user's job last year.
+The dataset I plan to use is the one provided by StackOverFlow for 2021 [here](https://insights.stackoverflow.com/survey), the survey contained 48 columns and 80k entries. I expect to be working mostly on job titles, education, language and frameworks used in the past year. I will be working with Pandas for EDA, I expect to also use Seaborn or matplotlab for visualization to make the insights easier to perceive. 
+
+### MVP
+The minimum viable product for this project would be a graph to represent the frameworks used in the user's job last year.
 
