@@ -10,7 +10,8 @@ helpful websites for any developers, as most of the common problems, has been an
 assistance for your problem.
 
 
-#### Proposal
+
+### Proposal
 StackOverFlow does a survey each year asking many questions to its users, about the age, job, salary, languages and frameworks.
 
 I think there's a lot of insights you can discover from that survey. I would be looking into the most used languages and frameworks, along with
@@ -18,7 +19,8 @@ I think there's a lot of insights you can discover from that survey. I would be 
 the job title, and salaries to help new developers have a better understanding of jobs and expectations of the industries.
 
 
-#### Data & Tools
+
+### Data & Tools
 The dataset I plan to use is the one provided by StackOverFlow for 2021 [here](https://insights.stackoverflow.com/survey), the survey contained 48 columns and 80k entries.
 
 I expect to be working mostly on job titles, education, language and frameworks used in the past year.
