@@ -1,4 +1,4 @@
-# StackOverFlow Survey 2021
+# Recommendation System - IMDb Movies
 
 ### Overview
 Content-based recommendation and collaborative-based recommendation are one of the most important models used in big corporate companies to boost their revenues or sales.
