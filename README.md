@@ -18,12 +18,10 @@ The dataset contains 85,855 movies with 22 features. The features contains the d
 - Splitting the genres and having each keyword in a new row (explode) to visualize the most popular genres.
 - Combining all the features we are concerned with to prepare it for modelling.
 
-*Models*
-
+*Models* <br />
 Looking at the problem we would like to solve, which is looking for similarities between different movies. We want to find the similar movies to our target movie. Out options here are cosine-similarity, euclidean distance, manhattan distance to name a few.
 
-*Model Evaluation*
-
+*Model Evaluation* <br />
 Since we will be working with text, we could use dummy variables or vectorizations. Euclidean distance is that important in the project due to that I don't care much about the actual distance between each item. Cosine-similarity works by calculating the degree between each item, a lower degree would mean they are similar, 90 degree means they are not similar. Furthermore, Cosine-similarity used frequently to find similar documents which essentially what our project would be.
 
 ## Tools
