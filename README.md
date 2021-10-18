@@ -1,5 +1,5 @@
 # Movie Recommendation - ML Model
-___
+
 # Abstract
 Content recommendation based on user activities has been used for years. Along with collaborative-based recommendations, that find similar user profiles and recommends the same content to both. I will be working on a content-based model. Recommending a movie based on an input of the movie you wish to find similar movies to it. The data I am working with is [IMDb movies extensive dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset), it has been scraped from IMDb and provided by [Stefano Leone](https://www.kaggle.com/stefanoleone992). I will be exploring the features of the data to help understand the dataset. After that, I will visualize the interesting aspects of the data to find some insights. Lastly, preparing the dataset for modelling hopefully to get as close and similar results as the user inputs.
 
